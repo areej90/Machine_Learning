@@ -1,6 +1,6 @@
 # Machine Learning
 
-![Machine Learning Image](machine%20learning%20img.jpeg)
+![machine_learning_img](images/machine_learning_img.jpeg)
 
 This repository provides an overview of the key concepts and techniques in **Machine Learning**. It covers both **Supervised** and **Unsupervised** learning methods with practical examples and explanations.
 
@@ -45,5 +45,5 @@ Unsupervised learning involves training a model on data that does not have label
 
 Below is an image that represents key concepts in Machine Learning:
 
-![Machine Learning Image](machine_learning_img.jpeg)
+![ML](images/ML.png)
 
