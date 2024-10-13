@@ -1,4 +1,4 @@
 # Machine_Learning
 
-![Image](machine learning img.jpeg)
+![Machine Learning Image](images/img.jpeg)
 
